@@ -1,1 +1,5 @@
-body {color: black;}
+@import url('https://fonts.googleapis.com/css2?family=Coustard&family=Lato:wght@300&family=Lexend+Deca:wght@100;400&display=swap');
+body {
+    font-family: coustard;
+    font-weight: 100;
+}
